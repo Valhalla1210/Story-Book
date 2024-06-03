@@ -8,6 +8,6 @@ Story Book is a website where one can create posts with to share with their frie
 
 ---
 
-## Instatllation
+## Installation
 
 run `npm install && npm start` for both client and server side directories.
